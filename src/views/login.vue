@@ -1,4 +1,4 @@
-<templte>
+<template>
     <div id="base">
         <div class="block">
             <h2>酒店客房服务系统</h2>
@@ -51,7 +51,7 @@
             </span>
         </el-dialog>
     </div>
-</templte>
+</template>
 
 <script>
 export default {
